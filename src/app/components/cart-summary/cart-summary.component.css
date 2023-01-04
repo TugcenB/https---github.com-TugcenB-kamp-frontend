@@ -1,0 +1,14 @@
+li {
+  list-style-type: none;
+}
+
+.divIcom {
+  width: 30px;
+  height: 3px;
+  background-color: gray;
+  margin: 6px 0;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
